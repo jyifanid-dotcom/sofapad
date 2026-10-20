@@ -1,0 +1,17 @@
+{
+  "revision": "V4-A",
+  "units": "mm",
+  "width": 160.0,
+  "depth": 115.0,
+  "front_height": 1.8,
+  "rear_height": 6.5,
+  "corner_radius": 6.0,
+  "key_band_depth": 18.0,
+  "key_count": 8,
+  "key_pitch": 20.0,
+  "key_travel_target": 0.6,
+  "glass_thickness_study": 0.7,
+  "clearance_study": 0.1,
+  "status": "CONCEPT ONLY - NOT FOR MANUFACTURE",
+  "scale_notes": "Orthographic envelope to indicated scale; mechanism and exploded internals are unvalidated arrangement studies."
+}
